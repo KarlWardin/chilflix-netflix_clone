@@ -1,0 +1,14 @@
+.section{
+    background-color: black;
+}
+
+.input{
+    padding: 16px;
+    width: 400px;
+}
+
+.button{
+    background-color: red;
+    padding: 16px;
+    color: white;
+}
